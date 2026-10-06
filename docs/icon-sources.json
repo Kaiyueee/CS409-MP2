@@ -1,0 +1,43 @@
+{
+  "project": "Lucide",
+  "revision": "1fae58d0a9c661a338036838caf3399b5507bab6",
+  "retrieved": "2026-10-06",
+  "license": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/LICENSE",
+  "icons": [
+    {
+      "name": "cat",
+      "page": "https://lucide.dev/icons/cat",
+      "source": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/cat.svg",
+      "originalSha256": "aa8dacc2b7db300a4137da7a7b0e2b4983061d45ef8bfff2c8078796b97e7518",
+      "localChange": "Added id=\"icon\" to the root SVG for external use references. Geometry is unchanged."
+    },
+    {
+      "name": "list",
+      "page": "https://lucide.dev/icons/list",
+      "source": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/list.svg",
+      "originalSha256": "ff97a7379eb962ddc3863bb59f0f45875ac8da91aac8a38a67361e7118d2d627",
+      "localChange": "Added id=\"icon\" to the root SVG for external use references. Geometry is unchanged."
+    },
+    {
+      "name": "layout-grid",
+      "page": "https://lucide.dev/icons/layout-grid",
+      "source": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/layout-grid.svg",
+      "originalSha256": "b8903f61d09b1d75e55c71158277d26570962f69c2099446a251871e0a2d6678",
+      "localChange": "Added id=\"icon\" to the root SVG for external use references. Geometry is unchanged."
+    },
+    {
+      "name": "arrow-right",
+      "page": "https://lucide.dev/icons/arrow-right",
+      "source": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/arrow-right.svg",
+      "originalSha256": "288397fdb73bb4f783cf9eabb726ff47357df1d4e3f1201dd748090579f108b9",
+      "localChange": "Added id=\"icon\" to the root SVG for external use references. Geometry is unchanged."
+    },
+    {
+      "name": "search",
+      "page": "https://lucide.dev/icons/search",
+      "source": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/search.svg",
+      "originalSha256": "283d371c2e433817bb9c0c8310caa6c77fa4177c0f4f1168d9c83b97af7389dc",
+      "localChange": "Added id=\"icon\" to the root SVG for external use references. Geometry is unchanged."
+    }
+  ]
+}
